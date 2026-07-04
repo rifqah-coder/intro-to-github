@@ -6,4 +6,5 @@
 - **GitHub:** [@rifqah-coder](https://github.com/example)
 - **Fun fact:** I want Tealive
 - **Currently learning:** Git & GitHub 🚀
+- **Dream Fish:** Nemo
 
